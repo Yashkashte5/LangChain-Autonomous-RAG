@@ -1,0 +1,15 @@
+chromadb
+sentence-transformers
+transformers
+pandas
+python-dotenv
+tqdm
+requests
+uvicorn
+fastapi
+streamlit
+matplotlib
+scikit-learn
+langchain-community
+pypdf
+streamlit-chat
