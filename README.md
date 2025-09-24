@@ -1,4 +1,4 @@
-# Autonomous RAG Chat Project
+# LangChain-Autonomous-RAG
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system using **LangChain**, **ChromaDB**, and **Gemini API**. Users can upload documents and query them through a **CLI** or a **Streamlit-based UI**.
 
